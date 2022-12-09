@@ -12,7 +12,7 @@
 ## 안녕하세요 👋 Back_End 개발자 100_sb 입니다 😉
 ### 🌱 성장하는 개발자
 #### 🌈 Skills
-`JavaScript` `Node.js` `Express.js` `Nest.js` `jest`
+`JavaScript` `TypeScript` `NodeJS` `Express` `NestJS` `jest`
 `Notion` 
 `Python` 
 `AWS EC2` `MySQL` `MariaDB` `Nginx`
