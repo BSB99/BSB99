@@ -10,7 +10,11 @@
 ### 🌱 성장하는 개발자
 
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/{BSB99}"/>
+<img
+  src="https://render.gitanimals.org/farms/BSB99"
+  width="600"
+  height="300"
+/>
 </a>
 
 #### 🌈 Skills
