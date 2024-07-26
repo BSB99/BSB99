@@ -9,11 +9,11 @@
 ## 안녕하세요 👋 Back_End 개발자 100_sb 입니다 😉
 ### 🌱 성장하는 개발자
 <a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/BSB99"
-  width="600"
-  height="300"
-/>
+  <img
+    src="https://render.gitanimals.org/lines/BSB99?pet-id=600485436892608974"
+    width="600"
+    height="120"
+  />
 </a>
 
 #### 🌈 Skills
